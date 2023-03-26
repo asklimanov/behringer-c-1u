@@ -6,7 +6,7 @@
 
 Для начала необходимо установить <a href="https://sourceforge.net/projects/equalizerapo/files/1.3/EqualizerAPO64-1.3.exe/download">Equalizer APO</a> и выбрать микрофон на вкладке Capture devices в Configurator. Компьютер перезагрузится.
 
-* Уровень громкости микрофона в системе: 90<br>
+* Уровень громкости микрофона в системе: 82<br>
 
 Порядок настройки:
 
