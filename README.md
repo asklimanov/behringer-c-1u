@@ -20,7 +20,7 @@
 
 * ReaPlugs скачиваем здесь: https://www.reaper.fm/reaplugs/<br>
 * LoudMax можно скачать здесь: https://loudmax.blogspot.com/<br>
-* RNNoise VST можно скачать здесь: <a href="https://github.com/werman/noise-suppression-for-voice/releases/latest/">Последний релиз (win-rnnoise.zip)</a><br>
+* RNNoise VST (win-rnnoise.zip) можно скачать здесь: <a href="https://github.com/werman/noise-suppression-for-voice/releases/latest/">Последний релиз</a><br>
 
 Найти фаб плагины, которые используются в пресете можно ВКонтакте в файлах по запросу "FabFilter2", размер файла для сверки 4.8 МБ, расширение ".7z". Найти De-Esser, который используется в пресете можно ВКонтакте в файлах по запросу "accusonus4", размер файла для сверки 8.2 МБ, расширение ".7z". Для распаковки можно использовать архиватор 7-Zip.
 
